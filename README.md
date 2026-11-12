@@ -4,6 +4,8 @@ Programista w [Ansite](https://ansite.pl) - agencji marketingowej i software
 housie z Opola. Po stronie agencji odpowiadam za kod: strony i sklepy
 klientów, wtyczki WordPressa i narzędzia, na których pracuje zespół.
 
+Moje prywatne konto: **[@diabeuspiekua](https://github.com/diabeuspiekua)**
+
 ---
 
 ### Co robię w Ansite
@@ -29,4 +31,4 @@ Repozytoria są prywatne - to kod produktów i systemy klientów agencji.
 
 ---
 
-[ansite.pl](https://ansite.pl) · Opole · prywatnie [@diabeuspiekua](https://github.com/diabeuspiekua)
+[ansite.pl](https://ansite.pl) · Opole

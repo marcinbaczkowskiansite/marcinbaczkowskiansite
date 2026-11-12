@@ -1,37 +1,32 @@
-## Ansite® Agencja Marketingowa
+## Marcin · Ansite®
 
-Agencja marketingowa i software house z Opola. Pracujemy głównie dla firm B2B:
-projektujemy i budujemy strony, sklepy i aplikacje, prowadzimy kampanie
-i pozycjonowanie, robimy branding i wideo we własnym studiu.
-
-[ansite.pl](https://ansite.pl) · Opole
+Programista w [Ansite](https://ansite.pl) - agencji marketingowej i software
+housie z Opola. Po stronie agencji odpowiadam za kod: strony i sklepy
+klientów, wtyczki WordPressa i narzędzia, na których pracuje zespół.
 
 ---
 
-### Czym się zajmujemy
+### Co robię w Ansite
 
-| dział | zakres |
+| obszar | czym |
 | --- | --- |
-| **Strony i sklepy** | WordPress na własnych motywach, WooCommerce, PrestaShop, dostępność WCAG 2.1, opieka i aktualizacje |
-| **Software house** | aplikacje webowe i mobilne, integracje, wtyczki WordPress |
-| **Marketing** | Google Ads, Meta Ads, SEO i SEO lokalne, widoczność w odpowiedziach AI |
-| **Branding** | identyfikacja wizualna, logo, naming, key visual, fotografia produktowa |
-| **Wideo** | Studio Akcja - nagrania, wideo marketing, podcasty |
+| **Strony i sklepy** | motywy blokowe WordPressa pisane od zera, WooCommerce, PrestaShop |
+| **Wtyczki** | aMedia, aBlocks i moduły wspólne dla stron klientów |
+| **Aplikacje** | natywne na iOS i Androida, panele webowe, API |
+| **Utrzymanie** | serwery, wdrożenia, kopie, pomiar wydajności |
 
 ---
 
-### Nasze produkty
+### Produkty Ansite, które rozwijam
 
 **aMedia** - biblioteka mediów dla WordPressa: foldery, opisy alternatywne,
 porządki, kadrowanie i optymalizacja obrazów.
 
-**aBlocks** - bloki treści do edytora WordPressa, z których budujemy bazy
+**aBlocks** - bloki treści do edytora WordPressa, z których powstają bazy
 wiedzy i case study klientów.
 
-Repozytoria są prywatne - to kod produktów i systemy klientów.
+Repozytoria są prywatne - to kod produktów i systemy klientów agencji.
 
 ---
 
-### Kontakt
-
-Wycena i rozmowa o projekcie: [ansite.pl/kontakt](https://ansite.pl/kontakt/)
+[ansite.pl](https://ansite.pl) · Opole · prywatnie [@diabeuspiekua](https://github.com/diabeuspiekua)
